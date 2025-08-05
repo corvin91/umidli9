@@ -1,0 +1,26 @@
+.otajon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bola-tepa{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+.bola-pas{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+.general{
+    background-image: url(/img/cta.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.body-buttt{
+    margin-top: 30px;
+}
